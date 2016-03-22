@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="WaiterProject" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:capitalize">characters</item>
+
+        <item name="android:typeface">monospace</item>
+        <item name="android:textSize">12pt</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:textColor">#EA4106</item>/>
+    </style>
+
+    <style name="CustomTabWidgetText" parent="Widget.Design.TabLayout">
+        <item name="android:textSize">100sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

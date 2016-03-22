@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Waiter Project</string>
+    <string name="action_settings">Настройки</string>
+    <string name="box">Корзина</string>
+    <string name="takeOrder">Зробити замовлення</string>
+    <string name="action_search"></string>
+    <string name="button_order">Замовити</string>
+</resources>

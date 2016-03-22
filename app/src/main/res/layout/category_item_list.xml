@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+
+        android:id="@+id/image_item_fastfood"
+        android:layout_width="150dip"
+        android:layout_height="110dip"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="10dp"/>
+    <TextView
+        android:id="@+id/title_item_fastfood"
+        android:layout_marginLeft="30dip"
+        android:layout_marginTop="30dip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:textColor="#EA4106"
+        android:layout_toRightOf="@+id/image_item_fastfood"
+        android:layout_alignParentEnd="true"
+         />
+
+
+
+</RelativeLayout>

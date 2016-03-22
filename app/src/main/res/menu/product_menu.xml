@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:sabd="http://schemas.android.com/apk/res-auto"
+    tools:context=".ProductActivity">
+
+    <item
+        android:id="@+id/box_shop"
+        android:title="@string/box"
+        android:icon="@mipmap/boxshop"
+        sabd:showAsAction="ifRoom" />
+</menu>
